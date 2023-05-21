@@ -1,14 +1,13 @@
 # Smart Dresser
 
 
-<div style="text-align: justify">
+
 Welcome to Smart Dresser, an AI-powered outfit selector designed to make your shopping experience **faster, easier, and safer**. Our product is the result of years of development aimed at addressing the challenges of traditional shopping and improving the overall customer experience.
 
 With Smart Dresser, you can try on clothes virtually without the need for physical contact, **reducing the risk of exposure to COVID-19**. Our system uses advanced technology, including machine learning, image processing, and body posture detection, to provide **personalised outfit recommendations based on your preferences and body type**. By detecting your body posture and facial features, Smart Dresser offers tailored outfit suggestions that fit your style and complement your body shape.
 
 We are committed to creating innovative solutions that solve real-world problems and improve people's lives. Our product not only provides **convenience and safety benefits** but also **reduces environmental impact and saves time**. We believe that shopping should be an enjoyable experience, and our goal is to provide a **real-
 time, interactive shopping experience to the user**.
-</div>
 
 
 
