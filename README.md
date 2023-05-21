@@ -90,13 +90,13 @@ The information gathered from this block contributes to enhancing the accuracy a
 </div>
 
 
-**<p> Size Predecision</p>**
+**<p> Size prediction</p>**
 ---
 
 <div style="text-align: justify">
 
 Size predecision is a crucial step in ensuring that the recommended clothing items fit the user accurately. 
-By leveraging the **body pose detection** results (2.3), this block determines the user's body measurements, such as height, shoulder width, and waist size. 
+By leveraging the **body pose detection**, this block determines the user's body measurements, such as height, shoulder width, and waist size. 
 These measurements are then used to estimate the appropriate sizes for different clothing items, ensuring a better fit and reducing the need for returns or exchanges. 
 **Size predecision** significantly improves the overall user experience by offering personalized size recommendations.
 </div>
@@ -129,7 +129,7 @@ By analyzing patterns, styles, and user preferences, this block helps users disc
 <div style="text-align: justify">
 
 The virtual try-on block enables users to visualize how selected clothing items would look on them before making a purchase. 
-By utilizing **augmented reality** (AR) or **virtual reality** (VR) technologies, this block superimposes the chosen clothes onto a live video feed or uploaded images of the user. 
+By utilizing virtual reality technologies, this block superimposes the chosen clothes onto a live video feed or uploaded images of the user. 
 Users can see themselves virtually wearing the selected garments, allowing them to assess the fit, style, and overall appearance. 
 This interactive and immersive experience empowers users to make more informed decisions and boosts their confidence in the chosen clothing items.
 </div>
